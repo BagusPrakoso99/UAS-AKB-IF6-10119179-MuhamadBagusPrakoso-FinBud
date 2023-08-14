@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "387062186475",
+    "project_id": "project-finbud",
+    "storage_bucket": "project-finbud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387062186475:android:9046d8245c3d09d39a99ae",
+        "android_client_info": {
+          "package_name": "com.bagus.finbud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387062186475-9a7cducjle1eo07a0jvlhdmci6o7bltt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt9bp6wXOIO0I7UMdtliBFeZXoitSepkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387062186475-9a7cducjle1eo07a0jvlhdmci6o7bltt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
